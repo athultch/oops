@@ -1,2 +1,2 @@
 # oops
-to study oops concept
+to study python oops concept
